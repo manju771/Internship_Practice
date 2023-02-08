@@ -1,0 +1,10 @@
+sum of even 
+step1:start
+step2:declare i,n
+step3:read n
+step4:intialize the i value i=1
+step5:check i value with n if(i<=n) if true go to step 6 else go to step 8;
+step6:if i%2==0:then go to step 7 or else step 8;
+step7:sum=sum+i
+step7:increment i++ go to step 5
+step8:stop
