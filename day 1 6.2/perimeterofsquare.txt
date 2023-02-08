@@ -1,0 +1,6 @@
+start
+display side, perimeter;
+read side;
+perimeter=4*side;
+display perimetr;
+stop
