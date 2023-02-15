@@ -1,0 +1,7 @@
+borrowing
+s1:start
+s2:go to library and submit id 
+s3:take the required book 
+s4:enter the duration and the book name or number
+s5:sign in the form:
+s6:stop

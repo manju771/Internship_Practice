@@ -1,0 +1,11 @@
+s1:start
+s2:go to the restaurant webpage
+s3:select the filters
+     display restaurant name,dish types;
+s4:select your required filter type
+s5:then display the list of hotels and list of menu
+s6:selct your food and timings;
+s7:then choose payement method
+s8:confirm
+s9:stop
+
