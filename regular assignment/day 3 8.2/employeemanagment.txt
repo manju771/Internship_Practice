@@ -1,7 +1,0 @@
-s1:start
-s2:declare experience,age,quality of work;
-s3:if employee=better restuarant operation
-       then go to step 5 else go to step 4
-s4:train the employee or fire the employee
-s5:promotion,appriciation,increased salary;
-s6:stop

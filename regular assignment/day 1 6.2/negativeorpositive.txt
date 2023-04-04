@@ -1,7 +1,0 @@
-s1:start
-s2:declare n;
-s3:read n;
-s4:if n>o
-    display n is positive;
-     else display n is negative;
-s5:stop

@@ -1,9 +1,0 @@
-s1:start
-s2:declare raw materials,cutleries,machinaries,staff;
-s3:read raw materials,machinery requiremnts;
-s4:select the machinery places to organize and raw materials storage places;
-s5:choose staff based on skill and a management staff ;
-s6:perform kitchen operations;
-s7:if operation is good then go to step 9 else go to 8
-s8:update the staff or equipments;
-s9:stop

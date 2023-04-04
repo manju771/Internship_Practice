@@ -1,6 +1,0 @@
-s1:start
-s2:display variables p,n,r,si;
-s3:read the values of variable p(principle),(number of years),(rate of interest),(simple interest);
-s4:si=(p*n*r)/100;
-s5:display si;
-s6:stop

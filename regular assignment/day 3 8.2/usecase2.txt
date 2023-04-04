@@ -1,8 +1,0 @@
-search for books
-s1:start
-s2:login to web using id and password
-s3:after looged in select for the book identity(number,name,code)
-    if the identity is available in database then step 4 or step 5
-s4:display the related book and similar book
-s5:display "the given identity does not match to any existing books"
-s6:stop

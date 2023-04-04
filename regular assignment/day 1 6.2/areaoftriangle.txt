@@ -1,6 +1,0 @@
-start;
-display base,height,area;
-read base,height;
-area=1/2*base*height;
-display area;
-stop

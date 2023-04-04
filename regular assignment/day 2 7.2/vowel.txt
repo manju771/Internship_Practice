@@ -1,8 +1,0 @@
-s1:start
-s2:declare ch;
-s3:read ch;
-s4:if "ch==a","ch==e","ch==i","ch==o","ch==u"
-        display ch is vowel 
-         or
-         display ch is consonent;
-s5:stop

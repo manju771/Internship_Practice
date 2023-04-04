@@ -1,7 +1,0 @@
-arrange book
-s1:start
-s2:declare book;
-s3:read book topics;
-s4:separate the books based on the topics
-       and arrange on different places
-s5:stop
