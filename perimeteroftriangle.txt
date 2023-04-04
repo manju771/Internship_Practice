@@ -1,0 +1,6 @@
+start
+display size,base,height,perimeter;
+read size, base, height;
+peri=size+base+height;
+display peri;
+stop

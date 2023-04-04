@@ -1,0 +1,8 @@
+s1:start
+s2:declare t,ch;
+s3:read ch;
+s4:if ch==t
+     display character is equal to t
+     or
+      display character is not equal to t
+s5:stop

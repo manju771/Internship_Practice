@@ -1,0 +1,12 @@
+s1:start
+s2:declare n,i;
+s3:read n,i=1;
+s4:if(i>n)then
+      go to step 7
+  elseif 
+     ((i%2)=1)then
+  display i
+  elseif
+s5:i=i+1
+s6:go to step 4
+s7:stop

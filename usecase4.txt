@@ -1,0 +1,9 @@
+return book
+s1:start
+s2:declare book id,studentid;
+s3:got to library 
+       check if your within the deadline or else step 5
+            if yes then check the book id and step 4;
+s4:sign and return the book;
+s5:complete all the procedure for late submission;
+s6:stop

@@ -1,0 +1,14 @@
+s1:start
+s2:declare n,i;
+s3:read n;
+s4:initialize i=1;
+s5:check i with n
+     if i<n/2 is true go to step 6 or go to step 8
+s6:check if i is divisible by n or not
+      if n%i==0
+     go to step 7
+     else go to step 8
+       then increment i 
+s7:display i value
+s8:then increment i and go to 8
+s9:stop
